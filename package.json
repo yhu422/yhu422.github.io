@@ -1,6 +1,6 @@
 {
       "name": "Personal Developer Website",
-      "homepage": "https://yhu422.github.io"
+      "homepage": "https://yhu422.github.io",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
